@@ -1,5 +1,5 @@
 > **Note**
-> Created in 25 Minutes!!
+> Created in 25 Minutes!! if you need help goto [wiki](https://github.com/ImLoadingUuU/MOFHPlayground/wiki)
 
 # MOFHPlayground
 Testing MOFH API Without Creating a MOFH Account and wait for 24 hours!
